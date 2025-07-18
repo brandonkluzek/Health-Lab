@@ -1,5 +1,6 @@
 # Health-Lab
 
+
 Health-Lab aims to provide a unified platform for tracking personal care routines across multiple health domains. The initial focus (Phase One) is on the scalp and facial skin domains while laying the groundwork for future expansion. A full technical outline is available in [Phase1Plan.md](Phase1Plan.md).
 
 ## Prerequisites

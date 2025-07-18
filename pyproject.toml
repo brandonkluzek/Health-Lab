@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "health-lab"
+version = "0.1.0"
+description = "Health-Lab project"
+authors = []
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "*"
+pydantic = "*"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0"
+pytest-asyncio = "^0.21"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
