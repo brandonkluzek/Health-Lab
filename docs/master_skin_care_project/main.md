@@ -3,7 +3,6 @@ title: Master Facial Skin-Care Project (Combined)
 layout: default
 ---
 
-# Master Facial Skin-Care Project (Combined)
 
 This file aggregates the individual section files using Jekyll-style `include_relative` directives. The YAML front matter above ensures Jekyll processes the `include_relative` tags correctly.
 
