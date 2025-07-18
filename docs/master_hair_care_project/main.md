@@ -1,12 +1,9 @@
 ---
 title: Master Hair-Care Project (Combined)
+layout: default
 ---
 
-# Master Hair-Care Project (Combined)
-
-
-This file aggregates the individual section files using Jekyll-style `include_relative` directives.
-
+This file aggregates the individual section files using Jekyll-style `include_relative` directives. The YAML front matter above ensures Jekyll processes the `include_relative` tags correctly.
 
 {% include_relative 0_overview.md %}
 {% include_relative 1_product_formulary.md %}
