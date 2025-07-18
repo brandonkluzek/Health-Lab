@@ -1,5 +1,9 @@
 # Health-Lab
 
+This repository contains technical plans and documentation for building the Health-Lab platform.
+
+See [Phase One Technical Build Plan](docs/Phase1Plan.md) for detailed setup instructions.
+
 
 Health-Lab aims to provide a unified platform for tracking personal care routines across multiple health domains. The initial focus (Phase One) is on the scalp and facial skin domains while laying the groundwork for future expansion. A full technical outline is available in [Phase1Plan.md](Phase1Plan.md).
 
@@ -38,3 +42,4 @@ This will launch the React Native app in the iOS or Android simulator.
 
 ## Documentation
 Further documentation and domain specifications can be found in the [docs/](docs/) directory.
+
