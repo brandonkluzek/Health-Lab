@@ -1,4 +1,6 @@
-# Master Facial Skin-Care Project (Combined)
+---
+title: Master Facial Skin-Care Project (Combined)
+---
 
 This file aggregates the individual section files using Jekyll-style `include_relative` directives.
 
